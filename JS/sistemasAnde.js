@@ -15,9 +15,9 @@ function SistemaANDE(item, serieBomba, numBombas, caudalMin, caudalMax, presionM
     
     
     this.comentarios=""
-    this.tipoDeMotor= "Eléctrico. 480 V/60 Hz/ 3 fases";
-    this.potenciaNominal="0.5 hp/ 1800 rpm";
-    this.nivelDeRuido="85dBa";
+    this.tipoDeMotor= "Eléctrico. 480 V/60 Hz/ 3 fases, IEEE841";
+    this.potenciaNominal="1.0hp/ 1800 rpm";
+    this.nivelDeRuido="85dBa max";
     this.viscosidadMax="100 cP";
 
     
